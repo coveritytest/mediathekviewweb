@@ -1,12 +1,11 @@
 {
-  "name": "MediahtekViewWeb",
-  "short_name": "MVW",
-  "theme_color": "#2c3e50",
+  "name": "mediathekviewweb",
+  "short_name": "mediathekviewweb",
+  "theme_color": "#1976d2",
   "background_color": "#fafafa",
   "display": "standalone",
-  "scope": "/",
-  "start_url": "index.html?launcher=true",
-  "description": "A light client for browsing the Filmlist of the MediathekView project.",
+  "scope": "./",
+  "start_url": "./",
   "icons": [
     {
       "src": "assets/icons/icon-72x72.png",
